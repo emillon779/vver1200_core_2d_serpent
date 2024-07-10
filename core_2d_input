@@ -188,9 +188,9 @@ water
 
 
 
-surf  1000  hexyprism    0.0  0.0  11.755 0.0 393
+surf  1000  cyl    0.0  0.0  11.755 
 
-surf  7000  hexyprism    0.0  0.0  11.855 0.0 393
+surf  7000  cyl    0.0  0.0  11.855 
 
 
 
@@ -206,7 +206,7 @@ cell 101  100  water  7000
 
 
 
-surf  3000  hexyprism    0.0  0.0  300 0.0 393
+surf  3000  cyl 0.0 0.0 300
 
 surf  4000  cyl 0.0 0.0 170
 
@@ -236,9 +236,9 @@ cell 305   0  outside 3000
 
 
 
-surf  2000  hexyprism    0.0  0.0  11.755 0.0 393
+surf  2000  cyl    0.0  0.0  11.755
 
-surf  8000  hexyprism    0.0  0.0  11.855 0.0 393
+surf  8000  cyl    0.0  0.0  11.855 
 
 cell 200  200  fill 210   -2000
 
