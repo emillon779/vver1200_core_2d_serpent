@@ -16,3 +16,6 @@ VVER-1200, Serpent, OpenMC, Nuclear Reactor Simulation, Monte Carlo Method, Reac
 ## References
 
 - [Serpent website](http://serpent.vtt.fi/)
+## Images
+[Reactor Geometry](https://github.com/emillon779/vver1200_core_2d_serpent/blob/main/vver_core_2d.png)
+[Flux](https://github.com/emillon779/vver1200_core_2d_serpent/blob/main/vver_core_2d_flux.png)
